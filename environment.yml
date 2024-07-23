@@ -11,6 +11,9 @@ dependencies:
   - r-reshape2
   - r-tidyverse
   - r-stringr
+  - r-kernlab
+  - r-randomForest
+  - r-ellipse
   - pip
   - pip:
     - seaborn
