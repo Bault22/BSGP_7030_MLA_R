@@ -15,6 +15,7 @@ dependencies:
   - r-randomForest
   - r-ellipse
   - r-caret
+  - r-lattice
   - pip
   - pip:
     - seaborn
